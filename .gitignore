@@ -1,0 +1,27 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Node
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# Build
+dist/
+build/
+
+# Env
+.env
+.env.*
+
+# IJFW
+.ijfw/cache/
+.ijfw/metrics/
+.ijfw/tmp/
